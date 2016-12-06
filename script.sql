@@ -493,7 +493,7 @@ insert into region(id, country_id, name) values (84, 1, 'Запорожская 
 insert into region(id, country_id, name) values (85, 1, 'Ивано-Франковская обл.');
 insert into region(id, country_id, name) values (86, 1, 'Киевская обл.');
 insert into region(id, country_id, name) values (87, 1, 'Кировоградская обл.');
-insert into region(id, country_id, name) values (88, 1, 'Крымская обл.');
+insert into region(id, country_id, name) values (88, 0, 'Крым АО.');
 insert into region(id, country_id, name) values (89, 1, 'Луганская обл.');
 insert into region(id, country_id, name) values (90, 1, 'Львовская обл.');
 insert into region(id, country_id, name) values (91, 1, 'Николаевская обл.');
